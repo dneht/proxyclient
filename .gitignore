@@ -1,0 +1,15 @@
+.DS_Store
+
+.idea
+.vscode
+.vagrant
+
+*swp
+*rpmnew
+*retry
+*swo
+
+main
+dist
+build
+target
